@@ -5,7 +5,7 @@
 - 📫 How to reach me swapnilshahare39@gmail.com
 
 - <div align="left">
-  <img  src="https://github.com/rahul8864/rahul8864/blob/main/grid-snake.svg"
+  <img  src="https://github.com/swapnilshahare12/swapnilshahare12/blob/main/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
