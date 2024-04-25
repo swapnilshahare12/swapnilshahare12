@@ -15,7 +15,7 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rahul8864&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=swapnilshahare12&label=Profile%20Views&color=10&icon=5&pretty=false)](https://visitcount.itsvg.in)
 <!---
 swapnilshahare12/swapnilshahare12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
